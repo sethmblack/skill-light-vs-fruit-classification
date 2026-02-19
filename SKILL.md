@@ -3,8 +3,8 @@ name: light-vs-fruit-classification
 description: Distinguish between "experiments of light" (investigations that illuminate causes and build understanding) and "experiments of fruit" (investigations that produce useful results). Ensures understan...
 license: MIT
 metadata:
+  version: 1.0.4389
   author: sethmblack
-  version: 1.0.4388
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - light-vs.-fruit-classification
